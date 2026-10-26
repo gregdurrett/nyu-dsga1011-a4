@@ -9,7 +9,7 @@ see `part1/README.md` and `part2/README.md` for setup instructions specific to e
 
 You will require GPUs for this homework. You can either use the HPC server (see documentation
 [here](https://github.com/Athul-R/NYU-HPC-Tutorials)) or use an API service like
-[lightning.ai](https://lightning.ai/), which provides some free credits.
+[lightning.ai](https://lightning.ai/) or other cloud providers.
 
 ## Layout
 
